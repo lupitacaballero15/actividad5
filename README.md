@@ -39,18 +39,19 @@
 <body>
     <nav class="menu">
         <ul>
-            <li><a href="index_caballero.html">Inicio</a></li>
+            <li><a href="https://www.google.com.mx/?hl=es-419">Inicio</a></li>
             <li>
                 <a href="#">Servicios</a>
                 <ul>
-                    <a href="galeria.html">Diseño</a>
-                    <a href="formulario.html">Desarrollo</a>
-                    <a href="listas2.html">Marketing</a>
+                    <a href="https://www.facebook.com/">Diseño</a>
+                    <a href="https://www.instagram.com/">Desarrollo</a>
+                    <a href="https://www.tiktok.com/es/">Marketing</a>
                 </ul>
             </li>
-            <li><a href="modelocaja.html">Portafolio</a></li>
-            <li><a href="barranaveg.html">Contacto</a></li>
+            <li><a href="https://mx.linkedin.com/">Portafolio</a></li>
+            <li><a href="https://x.com/?lang=es">Contacto</a></li>
         </ul>
     </nav>
 </body>
 </html>
+
